@@ -2,6 +2,8 @@
 
 <p>An application that attempts to use fractal geometry and calculus to create a range of probabilistic outcomes for the price of a publicly traded security on a daily basis. As well the application generates multifactor and multi-duration trends.</p>
 
+<p>The purpose of this application is to find the extremities of risk in a given security.</p>
+
 <p>Original idea inspired by <a href="https://www.hedgeye.com/">Hedgeye Risk Management</a>.</p>
 
 # Notes
